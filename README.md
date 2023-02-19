@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mostafahabib866@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am Passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
