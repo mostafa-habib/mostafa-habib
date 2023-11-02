@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [mostafahabib86.netlify.app](mostafahabib86.netlify.app)
 
-- 📝 I regularly write articles on [linkedin.com/in/mostafahabibb](linkedin.com/in/mostafahabibb)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mostafahabibb/](https://www.linkedin.com/in/mostafahabibb/)
 
 - 💬 Ask me about **Frontend, UI/UX Design, JavaScript, React, Nodejs, Expressjs, ALgorthim, Data structure**
 
