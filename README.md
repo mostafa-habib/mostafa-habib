@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mostafa Habib</h1>
-<h3 align="center">Meticulous frontend software engineer with 3+ year experience passionate about web development who loves Translating designs into high-quality code, Proficient with Javascript and its new specifications, React.js and nextJs ecosystem, HTML, CSS, and Responsive web development, and I have Good problem-solving skills with practice in competitive programming contests.</h3>
+<h3 align="center">Frontend Developer with 3+ years of experience building production-ready web applications using React.js, Next.js, and Angular. I create responsive, accessible, and performance-optimized interfaces that delight users and solve real problems.
 
-- 👨‍💻 All of my projects are available at [https://mostafahabib-portfolio.netlify.app/](https://mostafahabib-portfolio.netlify.app/)
+I collaborate closely with designers, backend engineers, and product teams to turn complex requirements into intuitive user experiences.
+
+Passionate about clean code, continuous learning, and delivering products that make a real impact.</h3>
+
+- 👨‍💻 All of my projects are available at [https://mostafa-habib.com/](https://mostafa.habib.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mostafahabibb/](https://www.linkedin.com/in/mostafahabibb/)
 
