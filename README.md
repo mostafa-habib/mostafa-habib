@@ -5,7 +5,7 @@ I collaborate closely with designers, backend engineers, and product teams to tu
 
 Passionate about clean code, continuous learning, and delivering products that make a real impact.</h3>
 
-- 👨‍💻 All of my projects are available at [https://mostafa-habib.com/](https://mostafa.habib.com)
+- 👨‍💻 All of my projects are available at [https://mostafa-habib.com/](https://mostafa-habib.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mostafahabibb/](https://www.linkedin.com/in/mostafahabibb/)
 
