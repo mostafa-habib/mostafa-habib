@@ -3,9 +3,13 @@
 ### Frontend Developer
 
 👋 Hi, I'm Mostafa Habib!
+
 💻 Frontend Developer at Dirac Systems (Fawry) working on complex ERP systems.  
+
 🚀 Passionate about React, Next.js, TypeScript, and clean code.  
+
 🧠 Currently expanding my skills towards Full-Stack & AI technologies.
+
 🛠️ Explore my pinned repos to see my work!  
 
 ---
