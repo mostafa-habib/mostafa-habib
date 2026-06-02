@@ -2,13 +2,11 @@
 
 ### Frontend Developer
 
-Frontend Developer with 3+ years of experience building production-ready web applications using **React.js, Next.js, and Angular**.  
-
-I create responsive, accessible, and performance-optimized interfaces that delight users and solve real problems.
-
-I collaborate closely with designers, backend engineers, and product teams to turn complex requirements into intuitive user experiences.
-
-Passionate about clean code, continuous learning, and delivering products that make a real impact.
+👋 Hi, I'm Mostafa Habib!
+💻 Frontend Developer at Dirac Systems (Fawry) working on complex ERP systems.  
+🚀 Passionate about React, Next.js, TypeScript, and clean code.  
+🧠 Currently expanding my skills towards Full-Stack & AI technologies.
+🛠️ Explore my pinned repos to see my work!  
 
 ---
 
